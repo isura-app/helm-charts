@@ -1,9 +1,0 @@
-apiVersion: v2
-name: activities-service
-description: A Helm chart for Isura
-maintainers:
-  - name: asarutv
-    email: faouzi.chelibane@gmail.com.com
-type: application
-version: 0.1.0
-appVersion: "1.16.0"
