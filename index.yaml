@@ -3,12 +3,22 @@ entries:
   entities-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-27T02:24:18.339163-04:00"
+    created: "2022-03-27T13:51:13.322461-04:00"
     description: A Helm chart for Kubernetes
-    digest: f9acace114ed301f7aef301f089365d5f1d6510d9540a9fccd1ab27dfdf0e45d
+    digest: 54a9f996de15ec41523140bc22f84287a80774c2b37089f848ca5aec47a34394
+    name: entities-service
+    type: application
+    urls:
+    - entities-service-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-27T13:51:13.321417-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 8a3ceef9068b316d421fb0b8e06a148b3f2578b7a24e20e03f57b669175f67f9
     name: entities-service
     type: application
     urls:
     - entities-service-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-27T02:24:18.337712-04:00"
+generated: "2022-03-27T13:51:13.320295-04:00"
