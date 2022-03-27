@@ -3,12 +3,12 @@ entries:
   activities-service:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2022-03-26T20:08:55.11645-04:00"
+    created: "2022-03-26T23:10:14.226125-04:00"
     description: A Helm chart for Kubernetes
-    digest: cb2289f0f554cf29f293311c1ca344c6c76f6352e79b7dccf3f425efccfae5d4
+    digest: 21d0189c37ce501b6d8b6874b9223244c0b39b8cf9ee77916433745f9264ec76
     name: activities-service
     type: application
     urls:
-    - activities-service-0.1.1.tgz
-    version: 0.1.1
-generated: "2022-03-26T20:08:55.115181-04:00"
+    - activities-service-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-03-26T23:10:14.225432-04:00"
