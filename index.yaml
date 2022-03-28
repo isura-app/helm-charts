@@ -3,9 +3,19 @@ entries:
   entities-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-27T13:51:13.322461-04:00"
+    created: "2022-03-27T19:59:49.501719-04:00"
     description: A Helm chart for Kubernetes
-    digest: 54a9f996de15ec41523140bc22f84287a80774c2b37089f848ca5aec47a34394
+    digest: dd39347a3b2ccf37f2892311dd96d32c907be0222225209d1c34e7ffc9c724f3
+    name: entities-service
+    type: application
+    urls:
+    - entities-service-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-27T19:59:49.500357-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 375db156e8b2723fbd8a0aa0eb4ecd31793de1a627160bbfdad0e462fa700374
     name: entities-service
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-27T13:51:13.321417-04:00"
+    created: "2022-03-27T19:59:49.496854-04:00"
     description: A Helm chart for Kubernetes
     digest: 8a3ceef9068b316d421fb0b8e06a148b3f2578b7a24e20e03f57b669175f67f9
     name: entities-service
@@ -21,4 +31,29 @@ entries:
     urls:
     - entities-service-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-27T13:51:13.320295-04:00"
+
+    ############################################
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-27T13:48:19.62246-04:00"
+    description: A Helm chart for Kubernetes
+    digest: a1c0de7e315d0f50eb751832bea64d5329ff5e35d8101c1e601db201be150a45
+    name: categories-service
+    type: application
+    urls:
+      - categories-service-0.1.0.tgz
+    version: 0.1.0
+    
+    ############################################
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2022-03-26T23:10:14.226125-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 21d0189c37ce501b6d8b6874b9223244c0b39b8cf9ee77916433745f9264ec76
+    name: activities-service
+    type: application
+    urls:
+      - activities-service-0.1.2.tgz
+    version: 0.1.2
+    ############################################
+generated: "2022-03-27T19:59:49.495415-04:00"
